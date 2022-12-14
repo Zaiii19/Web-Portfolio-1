@@ -1,0 +1,63 @@
+.nav-item{
+	font-weight: bold;
+	text-align: center;
+}
+.intro{
+	background-color: #696969;
+}
+
+
+
+/*PROJECT*/
+#project{
+	background-color: #989898; 
+	color: white; 
+}
+
+.carousel-caption{
+	color: white;
+}
+
+.carousel-inner{
+	vertical-align: middle;
+    border-style: none;
+}
+
+
+
+/*ABOUT ME*/
+.aboutme{
+	background-color: #808080;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+
+/*CONTACT*/
+#contact{
+	background-color: 	#BEBEBE;
+}
+
+.contact_info{
+	text-align: center;
+	border-radius: 25px;
+}
+
+
+/*TOOLS*/
+#tools{
+	background-color: #A9A9A9;
+}
+
+
+*{
+	border-radius: 10px;
+	font-family: Copperplate;
+}
+
+
+
+/*#989898*/
