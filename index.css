@@ -1,0 +1,232 @@
+*{
+	font-family: 'Rubik Vinyl', cursive;
+}
+
+body{
+		background-color: peachpuff;
+}
+
+/****************NAVBAR CSS***************/
+.navbar{
+	background-color: sandybrown;
+	font-weight: bolder;
+}
+
+.navbar-nav{
+	margin-left: auto;
+	margin-right: 90px;
+}
+
+.nav-link{
+	margin-left: 20px;
+}
+
+
+/****************HOME CSS***************/
+.home{
+	color: peachpuff;
+}
+.part_1{
+  border: 4px solid sandybrown;
+  margin-top: 25px;
+  box-shadow: 5px 12px 18px sandybrown;
+  border-radius: 20px;
+}
+
+.img_css{
+	border: 1px solid sandybrown;
+	border-radius: 80%;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	box-shadow: 5px 9px 8px sandybrown;
+
+}
+
+.p_home{
+	text-align: center;
+	font-size: 75px	;
+	margin-top: 40px;
+}
+
+/****************ABOUT CSS***************/
+.aboutme_1{
+  border: 4px solid sandybrown;
+  margin-top: 25px;
+  padding-top: 10px;
+  box-shadow: 5px 12px 18px sandybrown;
+  border-radius: 20px;
+  text-align: center;
+  text-shadow: 5px 12px 18px sandybrown;
+}
+
+/****************HOBBIES CSS***************/
+.hobbies_1{
+  border: 4px solid sandybrown;
+  margin-top: 25px;
+  padding-top: 10px;
+  box-shadow: 5px 12px 18px sandybrown;
+  border-radius: 20px;
+  text-align: center;
+  text-shadow: 5px 12px 18px sandybrown;
+  padding-bottom: 8px;
+}
+
+.hobbies_img{
+	height: 300px;
+}
+
+
+
+
+
+/*****COMPUTER GAMES******/
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.con_nba:hover .image {
+  opacity: 0.3;
+}
+
+.con_nba:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: sandybrown;
+  color: black;
+  font-size: 16px;
+  padding: 16px 32px;
+  border-radius: 70px;
+}
+
+/******PLAYING BASKETBALL*/
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle_1 {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.con_basketball:hover .image {
+  opacity: 0.3;
+}
+
+.con_basketball:hover .middle_1 {
+  opacity: 1;
+}
+
+.text_1 {
+  background-color: sandybrown;
+  color: black;
+  font-size: 16px;
+  padding: 16px 32px;
+  border-radius: 70px;
+}
+
+/******WATCHING ANIME******/
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle_2 {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.con_anime:hover .image {
+  opacity: 0.3;
+}
+
+.con_anime:hover .middle_2 {
+  opacity: 1;
+}
+
+.text_2 {
+  background-color: sandybrown;
+  color: black;
+  font-size: 16px;
+  padding: 16px 32px;
+  border-radius: 70px;
+}
+
+
+
+/****************TOOLS CSS***************/
+.tools_1{
+  border: 4px solid sandybrown;
+  margin-top: 25px;
+  padding-top: 10px;
+  box-shadow: 5px 12px 18px sandybrown;
+  border-radius: 20px;
+  text-align: center;
+  text-shadow: 5px 12px 18px sandybrown;
+}
+
+/****************CONTACT CSS***************/
+.contact_1{
+  border: 4px solid sandybrown;
+  margin-top: 25px;
+  padding-top: 10px;
+  box-shadow: 5px 12px 18px sandybrown;
+  border-radius: 20px;
+  text-align: center;
+  text-shadow: 5px 12px 18px sandybrown;
+}
+
+/****************FOOTER CSS***************/
+.footer{
+	background-color: sandybrown;
+	margin-top: 30px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+.footer_span{
+	margin-left: 8px;
+}
